@@ -1,0 +1,6 @@
+echo "# lkabc" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:15885141184/lkabc.git
+git push -u origin master
